@@ -1,0 +1,32 @@
+{
+  "name": "uni-io",
+  "version": "1.0.0",
+  "description": "对uni-app的uni.request进行封装，支持拦截器",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "uni-io",
+    "uni-app",
+    "request",
+    "http",
+    "ajax"
+  ],
+  "author": "zaeyee",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zaeyee/uni-io.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zaeyee/uni-io/issues"
+  },
+  "homepage": "https://github.com/zaeyee/uni-io#readme",
+  "devDependencies": {
+    "eslint": "^8.13.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "prettier": "^2.6.2"
+  }
+}
