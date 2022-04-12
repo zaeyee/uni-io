@@ -1,6 +1,6 @@
 {
   "name": "uni-io",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "对uni-app的uni.request进行封装，支持拦截器",
   "main": "src/index.js",
   "scripts": {
